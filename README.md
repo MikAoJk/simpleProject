@@ -4,7 +4,7 @@
 * Kotlin
 * Gradle
 * Ktor
-* Mustache
+* Handlebars
 
 #### Running localy
 run the main() method, and endpoint is avaliable on the endpoint http://localhost:8080/input
